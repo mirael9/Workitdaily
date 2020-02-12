@@ -376,7 +376,7 @@ hr {
 
 .post__img {
     max-width: 100%;
-    max-height: 282px;
+    /* max-height: 282px; */
     display: block;
 }
 
@@ -453,16 +453,17 @@ hr {
 .check__btn {
     text-decoration: none;
     font-size: 16px;
-    text-align: center;
+    /* text-align: center; */
     font-family: "Montserrat-Bold";
     border: 2px solid #fff;
     cursor: pointer;
     color: #0199ff;;
-    display: inline-block;
+    display: table;
     letter-spacing: normal;
     line-height: normal;
     border-radius: 8px;
     background-color: #fff;
     padding: 9px 25px;
-    margin-left: 70px;
+    /* margin-left: 70px; */
+    margin: 0 auto;
 }
