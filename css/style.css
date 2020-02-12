@@ -233,10 +233,11 @@ body {
     cursor: pointer;
     border: none;
     color: #0199ff;
-    height: 33px;
+    /* height: 33px; */
     white-space: nowrap;
     box-sizing: border-box;
     width: 121px;
+    margin: 0 auto;
 }
 
 .solution__caption {
@@ -338,7 +339,7 @@ hr {
     color: #337add;
     display: block;
     letter-spacing: normal;
-    margin-left: 24px;
+    margin: 0 auto;
 }
 
 .post__item {
